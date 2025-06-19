@@ -105,22 +105,17 @@ Sci-Fi: 0.64
 
 ---
 
-## 🎥 Demo & Resources
+## Resources
 
-- 🔗 [Google Colab Notebook](https://colab.research.google.com/drive/1iQT-yf3wiXh07-qXhmqnbY4Hrji534Ta)
 - 📁 [Dataset Download (zip)](https://drive.usercontent.google.com/download?id=1hUqu1mbFeTEfBvl-7fc56fHFfCSzIktD)
-- 🎬 [Presentation Video](https://youtu.be/_KuTJOLPmP0)
 
 ---
 
 ## 🧠 Authors
-
-- Nguyễn Thành Vinh – 21020710  
-- Trần Minh Hoàng – 21021592  
-- Dương Nguyễn Gia Vinh – 21021649  
+ 
+- Dương Nguyễn Gia Vinh
 
 Vietnam National University, Hanoi – University of Engineering and Technology  
-📅 May 2024
 
 ---
 
